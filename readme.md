@@ -29,6 +29,7 @@ You can install the required packages using `pip`:
 
 ```shell
 pip install opencv-python numpy tkinter
+```
 
 ## Usage
 
